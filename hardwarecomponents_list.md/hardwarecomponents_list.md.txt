@@ -1,0 +1,10 @@
+# Components List
+
+- ESP32 Development Board
+- HC-SR04 Ultrasonic Sensor
+- Red LED
+- Green LED
+- 220Ω Resistors
+- Breadboard
+- Jumper Wires
+- USB Cable
